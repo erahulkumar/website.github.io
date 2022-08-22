@@ -1,0 +1,103 @@
+﻿* {
+    margin:0px;
+    padding:0px;
+}
+.ncolor 
+{
+    background-color:pink;
+    border:2px dotted red; 
+}
+ul li:hover 
+{
+    background-color:#e65f5f;
+    border-radius:20px;
+}
+ul li a:hover 
+{
+    background-color:white;
+}
+.wtyvicr 
+{
+font-family:'Times New Roman';
+font-size:35px;
+font-weight:bold;
+text-align:center;
+text-shadow:3px 2px 3px #60b7a2;   
+}
+.adf 
+{
+    font-family:'Times New Roman';
+    font-weight:bold;
+    text-align:center;
+    text-decoration:underline;
+}
+.dfr 
+{
+    font-family:'Times New Roman';
+    font-size:20px;
+    text-align:center;
+    text-align:justify;
+}
+.aad 
+{
+    font-family:'Times New Roman';
+    font-size:20px;
+    text-align:center;
+    text-align:justify;
+    color:white;
+
+}
+.dp {
+    font-family:'Times New Roman';
+    font-weight:bold;
+    font-size:50px;
+    text-align:center;
+    text-decoration:underline;
+}
+#area
+	{
+		background:url('images/audio-marketing-campaign.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		transition: ease all .5s;
+	}
+	#area:hover
+	{
+		transform: scale(1.2);
+	}
+#area1
+	{
+		background:url('images/what-is-affiliate-marketing-1024x576-1024x576.png');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		transition: ease all .5s;
+	}
+	#area1:hover
+	{
+		transform: scale(1.2);
+	}
+
+#join 
+{
+    height:60px;
+    width:200px;
+    background-color:#f00;
+    border-radius:30px;
+    color:white;
+    text-align:center;
+    font-family:'Times New Roman';
+    font-size:30px;
+    text-decoration:none;
+}
+    #join:hover 
+    {
+    height:60px;
+    width:200px;
+    background-color:#11f6ef;
+    border-radius:30px;
+    color:white;
+    text-align:center;
+    font-family:'Times New Roman';
+    text-decoration:none;
+    font-size:30px;
+    }
