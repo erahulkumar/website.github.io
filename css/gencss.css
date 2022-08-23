@@ -63,7 +63,7 @@ text-shadow:3px 2px 3px #60b7a2;
 	}
 	#area:hover
 	{
-		transform: scale(1.2);
+		transform: scale(1.1);
 	}
 #area1
 	{
@@ -74,7 +74,7 @@ text-shadow:3px 2px 3px #60b7a2;
 	}
 	#area1:hover
 	{
-		transform: scale(1.2);
+		transform: scale(1.1);
 	}
 
 #join 
